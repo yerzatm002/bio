@@ -1,0 +1,84 @@
+[
+    {
+      "id": "respiratory-system",
+      "title": "Адамның тыныс алу жүйесі",
+      "description": "Анатомия, тыныс алу процесі, видео",
+      "videoId": "respiratory-system-video",
+      "taskId": "respiratory-system-task",
+      "cover": "https://avatars.mds.yandex.net/i?id=8f9867e23b9652542ca24938c3c88606_l-4231455-images-thumbs&n=13",
+      "quizId": "respiratory-system-quiz"
+    },
+    {
+      "id": "circulatory-system",
+      "title": "Қанайналым жүйесі",
+      "description": "Жүрек, қантамырлар, гемоглобин",
+      "videoId": "circulatory-system-video",
+      "taskId": "circulatory-system-task",
+      "cover": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB1poEOd.img",
+      "quizId": "circulatory-system-quiz"
+    },
+    {
+      "id": "digestive-system",
+      "title": "Ас қорыту жүйесі",
+      "description": "Орган құрылымы, ферменттер, ролик",
+      "videoId": "digestive-system-video",
+      "taskId": "digestive-system-task",
+      "cover": "https://avatars.mds.yandex.net/i?id=6f38e39906e17a0e3dc747e8a9eb3510ad256f0f-4228239-images-thumbs&n=13",
+      "quizId": "digestive-system-quiz"
+    },
+    {
+      "id": "nervous-system",
+      "title": "Жүйке жүйесі",
+      "description": "Ми, рефлекстер, сенсорлық жүйе",
+      "videoId": "nervous-system-video",
+      "taskId": "nervous-system-task",
+      "cover": "https://media.geeksforgeeks.org/wp-content/uploads/20220830153136/humannervoussystem.png",
+      "quizId": "nervous-system-quiz"
+    },
+    {
+      "id": "excretory-system",
+      "title": "Тері және шығару жүйесі",
+      "description": "Тер бездері, бүйрек, терморегуляция",
+      "videoId": "excretory-system-video",
+      "taskId": "excretory-system-task",
+      "cover": "https://healthiack.com/wp-content/uploads/Excretory-system-diagram-306.jpeg",
+      "quizId": "excretory-system-quiz"
+    },
+    {
+      "id": "endocrine-system",
+      "title": "Ішкі секреция бездері",
+      "description": "Гормондар мен олардың әсері",
+      "videoId": "endocrine-system-video",
+      "taskId": "endocrine-system-task",
+      "cover": "https://i.ytimg.com/vi/Akx_T5mz6j8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDlt76ddcWuDLKScpfVzSZ4xSuyPg",
+      "quizId": "endocrine-system-quiz"
+    },
+    {
+      "id": "blood-and-immunity",
+      "title": "Қан және иммунитет",
+      "description": "Иммундық жүйе, вакцинация",
+      "videoId": "blood-and-immunity-video",
+      "taskId": "blood-and-immunity-task",
+      "cover": "https://images.slideplayer.com/18/6170158/slides/slide_9.jpg",
+      "quizId": "blood-and-immunity-quiz"
+    },
+    {
+      "id": "bio-hygiene",
+      "title": "Биологиялық гигиена",
+      "description": "Жеке тазалық, дұрыс тамақтану",
+      "videoId": "bio-hygiene-video",
+      "taskId": "bio-hygiene-task",
+      "cover": "https://i.ytimg.com/vi/vXkP8YpAEqY/maxresdefault.jpg",
+      "quizId": "bio-hygiene-quiz"
+    },
+    {
+      "id": "human-anatomy-review",
+      "title": "Адам анатомиясына шолу",
+      "description": "Жалпы қайталау, ойын тапсырмаларымен",
+      "videoId": "human-anatomy-review-video",
+      "taskId": "human-anatomy-review-task",
+      "cover": "https://c8.alamy.com/comp/2F68NAX/human-organs-system-medical-body-anatomy-man-internal-physiology-parts-respiratory-reproductive-and-digestive-systems-vector-infographic-2F68NAX.jpg",
+      "quizId": "human-anatomy-review-quiz"
+    }
+  ]
+  

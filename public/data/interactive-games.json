@@ -1,0 +1,61 @@
+[
+    {
+      "id": "natural-selection",
+      "title": "Табиғи сұрыпталу (Natural Selection)",
+      "url": "https://phet.colorado.edu/sims/html/natural-selection/latest/natural-selection_en.html",
+      "description": "Жануарлар популяциясын бақылап, табиғи сұрыпталудың қалай жүретінін зерттеңіз.",
+      "topics": ["Эволюция", "Мутациялар", "Генетика"],
+      "goals": [
+        "Жыртқыштар мен қорек түрлерінің әсерінен қай мутациялар тиімді екенін анықтау.",
+        "Популяция тұрақты болатын, жойылып кететін және көбейіп кететін орта жағдайларын модельдеу.",
+        "Гендердің ұрпақтан ұрпаққа қалай берілетінін бақылау.",
+        "Басым және рецессивті гендердің тұқымқуалауын салыстыру."
+      ]
+    },
+    {
+      "id": "gene-expression",
+      "title": "Ген экспрессиясы (Gene Expression Essentials)",
+      "url": "https://phet.colorado.edu/sims/html/gene-expression-essentials/latest/gene-expression-essentials_en.html",
+      "description": "Жасушадағы ДНҚ транскрипциясы мен ақуыз синтезін визуалды түрде зерттеңіз.",
+      "topics": ["Ген экспрессиясы", "ДНҚ", "Ақуыз синтезі"],
+      "goals": [
+        "Ақуыз синтезіне әкелетін жасушаішілік негізгі процестерді түсіндіру.",
+        "Биомолекулалардың концентрациясын өзгерту ақуыз өндірісіне қалай әсер ететінін болжау.",
+        "Бір жасуша мен жасушалар жиынтығындағы ақуыз өндірісін салыстыру."
+      ]
+    },
+    {
+      "id": "build-a-body",
+      "title": "Адам денесін құрастыр (Build-A-Body)",
+      "url": "https://biomanbio.com/HTML5GamesandLabs/Physiologygames/buildabodypage.html",
+      "description": "Адам мүшелерін дене сұлбасына дұрыс орналастырып, анатомияны қайталаңыз.",
+      "topics": ["Анатомия", "Физиология"],
+      "goals": [
+        "Адам мүшелерін анықтап, дұрыс орнына қою.",
+        "Әр мүшенің қызметі мен жүйелердегі орнына түсіну."
+      ]
+    },
+    {
+      "id": "digestive-bodpod",
+      "title": "Ас қорыту жүйесі ойыны (Digestive BodPod)",
+      "url": "https://biomanbio.com/HTML5GamesandLabs/Physiologygames/digestive-bodpod-page.html",
+      "description": "Ас қорыту жүйесі бойынша өз біліміңізді тексеріп, органдарды дұрыс орналастырыңыз.",
+      "topics": ["Ас қорыту жүйесі", "Анатомия"],
+      "goals": [
+        "Ас қорыту мүшелерінің құрылымын қайталау.",
+        "Әр мүше орналасуы мен қызметін еске түсіру."
+      ]
+    },
+    {
+      "id": "respiratory-journey",
+      "title": "Тыныс алу жолы (Respiratory Journey)",
+      "url": "https://biomanbio.com/HTML5GamesandLabs/Physiologygames/respiratory_journeyhtml5page.html",
+      "description": "Оттектің тыныс алу мүшелері арқылы қалай өтетінін бақылаңыз.",
+      "topics": ["Тыныс алу жүйесі"],
+      "goals": [
+        "Оттектің тыныс алу мүшелері арқылы өту жолын бақылау.",
+        "Газ алмасу мен өкпе қызметін түсіну."
+      ]
+    }
+  ]
+  
